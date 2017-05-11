@@ -1,0 +1,33 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+header{
+  text-align: center;
+  margin: 90px 0 60px;
+}
+main{
+  max-width: 780px;
+  margin: 0 auto;
+  background: #fff;
+  padding: 30px;
+  border: 1px solid #e7e7e7;
+}
+.form-table {
+    border-collapse: collapse;
+    margin-top: 1em;
+    width: 100%;
+}
+.form-table th {
+    text-align: left;
+    width: 140px;
+}
+.form-table td,
+.form-table th {
+    padding: 10px 20px 10px 0;
+    vertical-align: top;
+}
+footer{
+  background: #f7f7f7;
+  text-align: center;
+  color: #999;
+  padding: 10px 0;
+  margin-top: 50px;
+}
