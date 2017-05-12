@@ -161,6 +161,10 @@ a:after {
 	-moz-box-shadow: none;
 }
 
+.small {
+  font-family: 'Pacifico';
+}
+
 .has-feedback .form-control-feedback {
 	line-height: 44px;
 	width: 44px;
